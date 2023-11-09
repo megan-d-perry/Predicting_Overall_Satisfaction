@@ -9,3 +9,4 @@ By working closely, we leveraged our unique skills to develop a solution that no
 
 Note: the data referenced in the notebook is for bullet train passengers. Later, I created a Kaggle competition, with similar sets from airline passengers.
 You can try it here https://www.kaggle.com/competitions/airline-customer-satisfaction/data
+Similarly, I'm including the datasets from the Kaggle competition in this repo.
